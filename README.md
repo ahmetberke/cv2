@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>👀 OpenCV 101</h1>
-    <h3>Introduction to image processing, most used and popular functions of OpenCV go here.</h3>  
+    <h1>OpenCV 101</h1>
+    <h3>👀 Introduction to image processing, most used and popular functions of OpenCV go here.</h3>  
 </div>
 
 <br>
